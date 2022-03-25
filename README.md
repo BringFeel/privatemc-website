@@ -12,4 +12,4 @@ Realizado con ❤️ por [BringFeel#8805](https://github.com/BringFeel).\
   
  [![Downloads](https://img.shields.io/github/downloads/BringFeel/privatemc-website/total)](https://github.com/BringFeel/privatemc-website/releases/latest)
   [![Stars](https://img.shields.io/github/stars/BringFeel/privatemc-website)](https://github.com/BringFeel/privatemc-website/stargazers)
-  [![Release](https://img.shields.io/github/v/release/BringFeel/privatemc-website)](https://github.com/BringFeel/privatemc-website/releases/tag/V1.0.0)</br>
+  [![Release](https://img.shields.io/github/v/release/BringFeel/privatemc-website)](https://github.com/BringFeel/privatemc-website/releases/tag/website)</br>
